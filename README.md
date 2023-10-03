@@ -21,7 +21,7 @@ This repository contains Python code for SMS spam detection using Naive Bayes an
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/nessayoub/sms-spam-detection.git
+    git clone https://github.com/nessayoub/sms-spam-classifier.git
     cd sms-spam-classifier
     ```
 
