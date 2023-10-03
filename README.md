@@ -45,12 +45,12 @@ This repository contains Python code for SMS spam detection using Naive Bayes an
 
 - **Naive Bayes Accuracy**: The accuracy of the Naive Bayes model on the testing set is displayed in the console.
 
-- **Top Indicative Words**: The top five indicative words for spam, according to Naive Bayes, are stored in the `p06_top_indicative_words.json` file.
+- **Top Indicative Words**: According to Naive Bayes, the top five indicative words for spam are stored in the `p06_top_indicative_words.json` file.
 
-- **Optimal SVM Radius**: The optimal SVM radius is computed but is currently commented out in the code for further refinement.
-
-- **SVM Accuracy**: If the SVM model is enabled, the accuracy of the SVM model on the testing set would be printed.
+- **Optimal SVM Radius**: The optimal SVM radius is computed.
+  
+- **SVM Accuracy**: If the SVM model is enabled, the accuracy of the SVM model on the testing set will be printed.
 
 ## Additional Notes
 
-Feel free to explore and modify the code for your own projects. Contributions are welcome!
+You can explore and modify the code for your projects. Contributions are welcomed!
